@@ -1,1 +1,4 @@
 # UART-Communication-Protocol
+UART (Universal Asynchronous Receiver/Transmitter) is a widely used asynchronous communication protocol for serial data transmission between a transmitter and a receiver. It operates without a shared clock signal, relying instead on predefined baud rates to synchronize data transfer. Data is framed with start and stop bits, allowing for error checking and reliable communication. UART supports full-duplex communication, meaning data can be sent and received simultaneously. Its simplicity, low hardware overhead, and flexibility make it ideal for applications like microcontrollers, GPS modules, and serial communication interfaces. In my project, I designed a UART capable of transmitting data at a baud rate of 9600, ensuring accurate and efficient data exchange.
+
+# Schematic
